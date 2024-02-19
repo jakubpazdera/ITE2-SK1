@@ -1,0 +1,1 @@
+print("pokud se mi to vytisklo, tak mi to funguje")
