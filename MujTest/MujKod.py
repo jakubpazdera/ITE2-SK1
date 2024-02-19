@@ -1,1 +1,1 @@
-print("toto je muj novy kod")
+print("toto je můj novy kod")

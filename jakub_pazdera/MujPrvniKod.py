@@ -1,0 +1,1 @@
+print("Zdarec, kanec tady Kuba")
